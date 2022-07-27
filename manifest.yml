@@ -1,5 +1,5 @@
   applications:
-  - name: onlinecourse
+  - name: onlineExamCourse
     routes:
       - route: host.domain
     memory: 128M
